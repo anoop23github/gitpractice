@@ -26,3 +26,11 @@ userDetails["user FirstName"] = "Mr A"
 let today = new Date()
 console.log(today.getDay());
 
+//Array
+
+let myArray = ["lemon tea", "green tea", 1, 02 ]
+// console.log(myArray);
+console.log(myArray[5]);
+console.log(myArray[3]);
+console.log(nyArray[-1]);
+
