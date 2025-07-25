@@ -28,9 +28,20 @@ console.log(today.getDay());
 
 //Array
 
-let myArray = ["lemon tea", "green tea", 1, 02 ]
+let myArray = ["lemon tea", "green tea", 1, '02' ]
 // console.log(myArray);
-console.log(myArray[5]);
-console.log(myArray[3]);
-console.log(nyArray[-1]);
+// console.log(myArray[5]);
+// console.log(myArray[3]);
+// console.log(myArray[-1]);
+
+//TypeConversion
+
+console.log(1 + '1');
+
+let myvalue = 'A'
+console.log(typeof Number(myvalue));
+
+console.log(typeof Number(myvalue) + 1);
+
+console.log(typeof null);
 
